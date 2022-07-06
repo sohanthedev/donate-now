@@ -5,7 +5,7 @@
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
-.myfirst{
+.poor-people{
 width: 1440px;
 height: 669px;
 display: flex;
@@ -146,6 +146,7 @@ footer h2{
 small{
   color: white;
 }
+
 #secont{
 background-color: rgb(247, 211, 211);
 color: indianred;
@@ -158,3 +159,4 @@ border:2px solid indianred ;
  background-color: gainsboro;
  border: none;
 }
+
